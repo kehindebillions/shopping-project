@@ -1,0 +1,28 @@
+body {
+    background-image: url(./res/shoppingcart-1066110386.jpg);
+}
+.cart-total{
+    display: block;
+    margin: 10%;
+}
+
+.cart-quantity-input {
+    width: 40px;
+}
+.btn-danger{
+    background-color:rgb(145, 202, 92);
+    border-radius: 10px;
+}
+img{
+    border-radius: 10px;
+}
+.cart-header {
+    margin-bottom: 10px;
+}
+.btn-purchase {
+    border-radius: 10px;
+    display: center;
+    background-color: royalblue;
+    font-size: large;
+    margin-left: 10%;
+}
